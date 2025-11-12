@@ -1,0 +1,4 @@
+text_column,tokenized_text,normalized_text
+This is an example sentence.,"['This', 'is', 'an', 'example', 'sentence', '.']","['this', 'is', 'an', 'example', 'sentence', '.']"
+Tokenization is an important step in NLP.,"['Tokenization', 'is', 'an', 'important', 'step', 'in', 'NLP', '.']","['tokenization', 'is', 'an', 'important', 'step', 'in', 'nlp', '.']"
+Let's test the text preprocessing script.,"['Let', ""'s"", 'test', 'the', 'text', 'preprocessing', 'script', '.']","['let', ""'s"", 'test', 'the', 'text', 'preprocessing', 'script', '.']"
